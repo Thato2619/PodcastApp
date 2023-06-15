@@ -1,8 +1,12 @@
 import React from 'react';
-import {Swiper, SwiperSlide} from 'swiper'
+import {useState, useEffect} from 'react';
+import {Swiper, SwiperSlide} from 'swiper';
+import './App.css'
+
 
 
 const Hero = () => {
+
 
     return (
 
