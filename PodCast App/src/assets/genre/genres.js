@@ -1,7 +1,7 @@
  // 20230612141838
 // https://podcast-api.netlify.app/shows
 
-export default [
+export default genre [
   {
     "id": "10716",
     "title": "Something Was Wrong",
